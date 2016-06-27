@@ -4,7 +4,7 @@
 \name{rn4_chrominfo}
 \alias{rn4_chrominfo}
 \title{Chromosome length information for rn4}
-\format{A data.frame with UCSC seqnames, NCBI seqnames and chromosome length information.}
+\format{A data.frame with chromosome and length information.}
 \description{
 Chromosome length information for rat assembly rn4.
 }

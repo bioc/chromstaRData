@@ -1,3 +1,1 @@
-data
-inst/extdata/euratrans
 inst/extdata

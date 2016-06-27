@@ -16,7 +16,7 @@ NULL
 #'
 #' @docType data
 #' @name rn4_chrominfo
-#' @format A data.frame with UCSC seqnames, NCBI seqnames and chromosome length information.
+#' @format A data.frame with chromosome and length information.
 #' @seealso \code{\link[GenomeInfoDb]{fetchExtendedChromInfoFromUCSC}}
 NULL
 
