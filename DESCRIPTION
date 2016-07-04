@@ -1,7 +1,7 @@
 Package: chromstaRData
 Type: Package
 Title: ChIP-seq data for Demonstration Purposes
-Version: 0.99.3
+Version: 0.99.4
 Date: 2016-06
 Author: Aaron Taudt
 Maintainer: Aaron Taudt <aaron.taudt@gmail.com>
